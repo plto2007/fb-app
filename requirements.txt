@@ -1,0 +1,7 @@
+gunicorn
+flask_restful==0.3.8
+flask==1.1.1
+bs4==0.0.1
+APScheduler==3.0.0
+requests==2.23.0
+wget
